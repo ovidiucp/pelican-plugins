@@ -16,7 +16,7 @@ Examples
 
 Output
 ------
-<img src="/images/ninja.png">
+<a href="/images/ninja.png" class="example-image-link" data-lightbox="random"><img src="/images/ninja.png"></a>
 <img class="left half" src="http://site.com/images/ninja.png" title="Ninja Attack!" alt="Ninja Attack!">
 <img class="left half" src="http://site.com/images/ninja.png" width="150" height="150" title="Ninja Attack!" alt="Ninja in attack posture">
 
